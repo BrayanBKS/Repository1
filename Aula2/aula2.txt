@@ -1,0 +1,2 @@
+o "int" é usad para armazenar números e fazer uma soma ou diminção deles, também existe
+o float que é uma versão melhor do int que aguenta 4 vezes mais.
